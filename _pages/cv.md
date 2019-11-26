@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Bioengineering](http://www.imperial.ac.uk/bioengineering), [Imperial College London](https://www.imperial.ac.uk/), 2017
-  * Supervisor: [Dr. Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
-* M.S in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
-  * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
-* B.S in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
-  * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
+* M.Sc in Computer Science, [University of Freiburg](https://www.tf.uni-freiburg.de/en), 2021
+  <!-- * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/) -->
+* B.Tech in Software Engineering, [Delhi Technological University](http://http://dtu.ac.in/), 2018
+  <!-- * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)   -->
 
 Work experience
 ======
-* Project Leader, 2016-2018
-  * [DJI](https://www.dji.com/), Shenzhen, China
-  * Machine learning research for DJI drones and AI accelerator
-* Quant, 2015
-  * [Cardwell Investment](http://c-i-technologies.com/), London, UK
-  * Futures trading strategy
-* Data Scientist, 2014
-  * [Activesecurities](https://activesecurities.com/), London, UK
-  * Fraud detection
+* Working Student, 2019
+  * [cytena](https://www.cytena.com/home.html), Freiburg, Germany
+  * Developing Machine Learning algorithm for cell viability prediction
+* Summer Student, 2017
+  * [CERN](https://openlab.cern), Geneva, Switzerland
+  * Developing RESTful APIs in Django for resource management.
+* Student Intern, 2016
+  * [uTrade Solutions](https://utradesolutions.com), Chandigarh, India
+  * Developing RESTful APIs in Django for an eKYC app.
 
 Awards
 ======
-* Selected candidate of Kongque-plan Award, Shenzhen, China, 2017
-* Chinese Government Award for Outstanding Self-financed Students Abroad, 2015
-* Microsoft PhD Scholarship, Microsoft Research, 2011-2015
-* Dorothy Hodgkin Postgraduate Award, EPSRC, 2011-2015
-* Department of Bioengineering Industrial PhD Studentship, Imperial College London, 2011-2015
-* Gold Medals, [International Genetically Engineered Machine Competition (iGEM)](https://igem.org/Main_Page), 2009 and 2010 
+* Selected as an openLab Summer Student at CERN, 2017 [https://openlab.cern]

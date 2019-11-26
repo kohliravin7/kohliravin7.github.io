@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
+I am a Masters student in Computer Science at the University of Freiburg. Alongwith that, I am also working as a working student at cytena GmbH. Coming January, I will join Dr. Frank Hutter's Machine Learning group at the university.
 
-My research goal is to build intelligent and trustworthy machines by unifying machine learning and control theory, especially in stringent environment.
+My research goal is to build tools for automating machine Learning.
 
-Recent News
+<!-- Recent News
 ======
 * April 22, 2019. Our paper ["BayesNAS: A Bayesian Approach for Neural Architecture Search"](https://arxiv.org/abs/1905.04919) accepted to [ICML 2019](https://icml.cc/Conferences/2019/)! Hongpeng also got the ICML Travel Award. Well done, Hongpeng and Minghao.
 * April 11, 2019. Hongpeng gave a talk on "Sparse Bayesian Deep Neural Networks for Nonlinear System Identification" at [Nonlinear System Identification Benchmarks](http://www.nonlinearbenchmark.org/), Eindhoven.
@@ -22,4 +22,4 @@ Recent News
 * Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
 * Januray 24, 2019. One paper on Neural Architecture Search submitted.
 * December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019!
-* May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks to the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
+* May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks to the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)!  -->
