@@ -14,7 +14,7 @@ Education
 * M.Sc in Computer Science, [University of Freiburg](https://www.tf.uni-freiburg.de/en), 2021
   <!-- * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/) -->
 * B.Tech in Software Engineering, [Delhi Technological University](http://http://dtu.ac.in/), 2018
-  <!-- * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)   -->
+  * Supervisor: [Dr. Rajni Jindal](http://www.dtu.ac.in/Web/Departments/CSE/faculty/rajnijindal.php)  
 
 Work experience
 ======
