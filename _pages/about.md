@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Masters student in Computer Science at the University of Freiburg. Alongwith that, I am also working as a working student at cytena GmbH. Coming January, I will join Dr. Frank Hutter's Machine Learning group at the university.
+I am a Masters student in Computer Science at the University of Freiburg. Alongwith that, I am working as a working student in the Machine Learning group at the university as well as a working student at cytena GmbH. 
 
 My research goal is to build tools for automating machine Learning.
 

@@ -18,9 +18,12 @@ Education
 
 Work experience
 ======
-* Working Student, 2019
+* Working Student, 2020-Current
+  * [uni-freiburg](https://ml.informatik.uni-freiburg.de), Freiburg, Germany
+  * Part of the neural architecture search task force.
+* Working Student, 2019-Current
   * [cytena](https://www.cytena.com/home.html), Freiburg, Germany
-  * Developing Machine Learning algorithm for cell viability prediction
+  * Developing Machine Learning algorithm for cell viability prediction.
 * Summer Student, 2017
   * [CERN](https://openlab.cern), Geneva, Switzerland
   * Developing RESTful APIs in Django for resource management.
@@ -31,3 +34,4 @@ Work experience
 Awards
 ======
 * Selected as an openLab Summer Student at CERN, 2017 [https://openlab.cern]
+* Secured AIR(All India Rank) 10902 out of 1.4 million(99.2 percentile) students in JEE(mains) 2014
