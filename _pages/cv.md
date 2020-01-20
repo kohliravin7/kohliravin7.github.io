@@ -33,5 +33,7 @@ Work experience
 
 Awards
 ======
-* Selected as an openLab Summer Student at CERN, 2017 [https://openlab.cern]
+* Selected for CERN Openlab Summer Student Programme (37 students selected out of 1,560 applicants), July- September, 2017. [https://openlab.cern]
 * Secured AIR(All India Rank) 10902 out of 1.4 million(99.2 percentile) students in JEE(mains) 2014
+* Secured 2nd position (out of a total 37 teams) at CERN openLAB Webfest 2017 for an Augmented Reality iOS game,
+Pocket Collider.
