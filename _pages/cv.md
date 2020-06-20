@@ -21,7 +21,7 @@ Work experience
 * Working Student, 2020-Current
   * [uni-freiburg](https://ml.informatik.uni-freiburg.de), Freiburg, Germany
   * Part of the neural architecture search task force.
-* Working Student, 2019-Current
+* Working Student, 2019-2020
   * [cytena](https://www.cytena.com/home.html), Freiburg, Germany
   * Developing Machine Learning algorithm for cell viability prediction.
 * Summer Student, 2017

@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /people/
 title: "People"
 author_profile: true
@@ -26,4 +26,4 @@ author_profile: true
 * Yizhou Wang (EECS, with [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
 * Jijia Que (Civil, with [Prof. Hans van Lint](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/lint-jwc-van/))
 
- 
+  -->
