@@ -20,7 +20,7 @@ Work experience
 ======
 * Working Student, 2020-Current
   * [uni-freiburg](https://ml.informatik.uni-freiburg.de), Freiburg, Germany
-  * Part of the neural architecture search task force.
+  * Part of the development team for AutoPytorch.
 * Working Student, 2019-2020
   * [cytena](https://www.cytena.com/home.html), Freiburg, Germany
   * Developing Machine Learning algorithm for cell viability prediction.
